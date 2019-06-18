@@ -1,4 +1,4 @@
-package org.noandish.library.database;
+package org.noandish.library.ndatabase;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("org.noandish.library.database.test", appContext.getPackageName());
+        assertEquals("org.noandish.library.ndatabase.test", appContext.getPackageName());
     }
 }

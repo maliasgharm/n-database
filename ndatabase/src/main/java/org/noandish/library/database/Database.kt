@@ -1,4 +1,4 @@
-package org.noandish.library.database
+package org.noandish.library.ndatabase
 
 import android.annotation.SuppressLint
 import android.content.ContentValues

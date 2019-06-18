@@ -1,4 +1,4 @@
-package org.noandish.library.database;
+package org.noandish.library.ndatabase;
 
 import org.junit.Test;
 
